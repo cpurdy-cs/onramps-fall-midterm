@@ -1,6 +1,6 @@
 # OnRamps Python Midterm Review
 
-A standalone, unofficial practice website covering EM_01 through EM_16 from the supplied review blueprint. The older outcome list informed question variations but is not separately assessed. No school branding or external dependencies.
+A standalone, unofficial practice website covering the supplied midterm review blueprint. The older outcome list informed question variations but is not separately assessed. No school branding or external dependencies.
 
 ## Deploy on GitHub Pages
 
@@ -11,11 +11,11 @@ A standalone, unofficial practice website covering EM_01 through EM_16 from the 
 
 ## Practice modes
 
-- Complete: all 49 templates (three per outcome, four for EM_09).
-- Mixed: 33 questions (two per outcome, three for EM_09).
-- Quick: 16 questions (one per outcome).
+- Complete: all 49 templates, including extra function-construction practice.
+- Mixed: 33 questions (balanced practice).
+- Quick: 16 questions (shorter practice).
 
-Questions and options are shuffled and numeric/text values vary when available. Students see the outcome only after checking an answer. Incorrect answers receive a question-specific hint without revealing the solution. Students can revise and retry indefinitely, or choose Show answer after two incorrect submissions. The same question and retry history are saved locally. Responses are scored per question, with all-or-nothing grading for multi-select and dropdown questions. First-attempt accuracy is used for scores and missed-topic tracking, while eventual success is reported separately. Results include topic breakdown and review of first and final responses; retrying missed topics generates new variants for those outcomes. Retrying the entire review restores all 16 outcomes in the same mode. Scores are practice scores, not official midterm scores. Progress is stored locally in the browser; no personal information is collected or uploaded. A new review replaces the current saved one.
+Questions and options are shuffled and numeric/text values vary when available. Students see the outcome only after checking an answer. Incorrect answers receive a question-specific hint without revealing the solution. Students can revise and retry indefinitely, or choose Show answer after two incorrect submissions. The same question and retry history are saved locally. Responses are scored per question, with all-or-nothing grading for multi-select and dropdown questions. First-attempt accuracy is used for scores and missed-topic tracking, while eventual success is reported separately. Results include topic breakdown and review of first and final responses; retrying missed topics generates new variants for those outcomes. Retrying the entire review restores all topics in the same mode. Scores are practice scores, not official midterm scores. Progress is stored locally in the browser; no personal information is collected or uploaded. A new review replaces the current saved one.
 
 The question formats are multiple choice, multi-select, typed value/output, and dropdown-based code completion/ordering. Code construction is scaffolded through dropdowns and selection rather than executing student-written code. No live Python interpreter is necessary.
 
